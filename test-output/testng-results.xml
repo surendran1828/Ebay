@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18015" started-at="2021-02-03T10:43:55Z" finished-at="2021-02-03T10:44:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18015" started-at="2021-02-03T10:43:55Z" finished-at="2021-02-03T10:44:13Z">
+      <class name="org.ebay.Ebay">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:org.ebay.Ebay@57baeedf]" name="beforeclass" is-config="true" duration-ms="11260" started-at="2021-02-03T10:43:55Z" finished-at="2021-02-03T10:44:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="test()[pri:0, instance:org.ebay.Ebay@57baeedf]" name="test" duration-ms="4608" started-at="2021-02-03T10:44:06Z" finished-at="2021-02-03T10:44:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.ebay.Ebay@57baeedf]" name="test1" duration-ms="410" started-at="2021-02-03T10:44:11Z" finished-at="2021-02-03T10:44:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:org.ebay.Ebay@57baeedf]" name="test2" duration-ms="1561" started-at="2021-02-03T10:44:11Z" finished-at="2021-02-03T10:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- org.ebay.Ebay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
